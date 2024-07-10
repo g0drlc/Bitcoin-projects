@@ -99,3 +99,42 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
   - Contract: <a href="https://github.com/victoryfox19931116/Hubble-Backend">Hubble Smart Contract</a>
   - Frontend: <a href="https://github.com/victoryfox19931116/Hubble-FrontEnd">Hubble Frontend</a>
   - Frontend: <a href="https://github.com/victoryfox19931116/Hubble-landing-page">Hubble Landing Page</a>
+
+<h3><u><strong><i>Turtsat</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/Bitcoin-Projects/assets/132503531/83828572-a0a7-4e68-9b27-8fba35c38351">
+<div>This is a community-driven open platform for ordinals, with a mission to become the Bitcoin of Ordinals, providing a space for everyone to build, donate, and impact Bitcoin Ordinals & BRC-20.</div>
+<div>-Used custodial staking services</div>
+<div>- Built backend for staking.</div>
+<div>- Built admin page and frontend.</div>
+
+- Visit: <a href="https://turtsat.io">Turtsat</a>
+- Frontend repo: <a href="https://github.com/Turtsat/Turtsat-frontend">Turtsat-frontend</a>
+- Backend repo: <a href="https://github.com/Turtsat/Turtsat-backend">Turtsat-backend</a>
+-
+
+<h3><u><strong><i>The Council</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr />
+
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/Bitcoin-Projects/assets/132503531/608a4c56-5dbe-4a78-a1c7-231f84b56107">
+<div>Make bitcoin magical again with magic internet JPEGs inscribed forever on the Bitcoin blockchain.</div>
+<div>- Built backend for minting.</div>
+<div>- Optimized metadata and transaction.</div>
+
+- Visit: <a href="https://www.ordinalscouncil.com/">The Council</a>
+- Frontend repo: <a href="https://github.com/coin-degeni/ordinalcouncil-frontend">ordinalcouncil-frontend</a>
+- Backend repo: <a href="https://github.com/coin-degeni/ordinalcouncil-backend">ordinalcouncil-backend</a>
+
+
+<h3><u><strong><i>Ordinal Loops</i></strong></u> &nbsp;(Bitcoin)</h3>
+<hr/>
+
+
+<img align="right" width="300px" src="https://github.com/Coin-Degeni/Bitcoin-Projects/assets/132503531/b500ca2f-83a6-416b-939a-a96a95f21a61">
+
+<div>The Ordinal Loops is the first fine art collection on Bitcoin. Led marketplace platform development.</div>
+
+- Visit: <a href="https://www.ordinalloops.xyz/">Ordinal Loops</a>
+- Frontend repo: <a href="https://github.com/coin-degeni/scarcecity-frontend">ordinalloops-frontend</a>
+- Backend repo: <a href="https://github.com/coin-degeni/scarcecityt-backend">ordinalloops-backend</a>
