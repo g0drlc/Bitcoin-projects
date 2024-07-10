@@ -50,56 +50,6 @@ BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot addr
   - backend repo: <a href="https://github.com/victoryfox19931116/BRC20-withdraw-Backend">BRC20-Backend</a>
   - frontend repo: <a href="https://github.com/victoryfox19931116/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
-<h3><u><strong><i>Yieldz Lending</i></strong></u> &nbsp;(Polygon)</h3>
-
-<hr />
-
-This is a Defi Lending project on Etheruem network. Users can provide a sustainable system and bringing predictabe and long-term yield mechanisms for Defi investors.
-<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/14a1e11e-1d51-42d7-af75-e03b90dece79">
-
-
-Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to provide a sustainable system and bring stability and long-term solutions for Defi investors. YIELDZ is also a multifaceted Ecosystem, innovative Stablecoin, and Core Farm.
-We concentrate on investors who want to invest their assets safely and who are searching for a reliable source of income. We provided a multi-layered method to increase the predictability of Defi space
-
-- Live: <a href="https://yieldzprotocol.com/">Yieldz</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/360-Defi-SmartContract">Yieldz-Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/Yieldz-Defi-Frontend">Yieldz-Frontend</a>
-
-
-<h3><u><strong><i>Playzelo</i></strong></u> &nbsp;(Bitcoin, Etheruem, Binance, Solana)</h3>
-<hr />
-
-This is a game project deployed on blockchain networks. Users can play games use crypto
-
-<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/80a7c5b9-674d-4db5-ba0f-35e9befc888b">
-
-
-Playzelo is a game project deployed on blockchain networks. There are several games like (Scissors, Turtlerace, Mines, Idce, Plinko, Slot, Crash). Users can play game use native tokens and USDT, USDC tokens on bitcoin, ethereum, solana, binance.
-
-- Live: <a href="https://playzelo.xyz/">Playzelo</a>
-- Github repos: 
-  - backend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/backend">Playzelo Backend</a>
-  - frontend repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/frontend">Playzelo-Frontend</a>
-  - admin repo: <a href="https://github.com/victoryfox19931116/scissors/tree/master/admin">Playzelo-Admin</a>
-
-<h3><u><strong><i>Hubble Protocol</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain. Hubble enables you to borrow USDH against multiple assets. Borrowing USDH allows users to access the liquidity (cash on hand) in their long-term holding tokens.
-
-<img align="right" width="300px" src="https://github.com/victoryfox19931116/Blockchain-Projects-Overview/assets/89193350/801609f5-216b-4792-9db8-c1140ac38e64">
-
-- Live Link: <a href="https://hubbleprotocol.io">Hubble Protocol</a>
-  - Functionality
-    - Lets users borrow USDH for a one-time 0.5% fee and low interest rates. With the interest yield on deposits, your collateral value can grow to negate fees.
-    - Developed governance and utility Token(HBB) and over-collateralized stablecoin(USDH).
-    - Hubble’s capital-efficient 110% collateral ratio lets users leverage up to 11x on their deposits.
-- Github repo:
-  - Contract: <a href="https://github.com/victoryfox19931116/Hubble-Backend">Hubble Smart Contract</a>
-  - Frontend: <a href="https://github.com/victoryfox19931116/Hubble-FrontEnd">Hubble Frontend</a>
-  - Frontend: <a href="https://github.com/victoryfox19931116/Hubble-landing-page">Hubble Landing Page</a>
-
 <h3><u><strong><i>Turtsat</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 <img align="right" width="300px" src="https://github.com/Coin-Degeni/Bitcoin-Projects/assets/132503531/83828572-a0a7-4e68-9b27-8fba35c38351">
@@ -138,3 +88,80 @@ Hubble is a decentralized finance (DeFi) protocol built on the Solana blockchain
 - Visit: <a href="https://www.ordinalloops.xyz/">Ordinal Loops</a>
 - Frontend repo: <a href="https://github.com/coin-degeni/scarcecity-frontend">ordinalloops-frontend</a>
 - Backend repo: <a href="https://github.com/coin-degeni/scarcecityt-backend">ordinalloops-backend</a>
+
+<h3><u><strong><i>Galactic Kingdom</i></strong></u></h3>
+<hr />
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-E2761B?style=flat-square&logo=web3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-F7F7F7?style=flat-square&logo=mongodb&logoColor=49A248)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+I served as the lead developer for a blockchain project featuring multi-chain integration, including Bitcoin and Solana, to offer various strategies. Our innovative tokenomics introduces the unique token 'GKB' for our play-to-earn (P2E) game. Users can experience the excitement of rarity, treasure boxes, and realistic 3D models of conquerors. 
+
+My responsibilities included backend development using Node.js, smart contract programming with Rust, and creating the game's website with Next.js and Tailwind CSS.
+
+<img align="right" width="300px" src="https://i.ibb.co/BwRB4gG/Galactickingdom.png">
+
+- Site: <a href="https://galactickingdom.io">Galactic Kingdom</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-BE">Galactic Kingdom-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/Galactic-Kingdom-FE">Galactic Kingdom-Frontend</a>
+
+<br />
+
+
+<h3><u><strong><i>Ord Toolkit</i></strong></u></h3>
+<hr />
+
+
+I lead the development of the backend for Ord Toolkit, a platform focused on ordinals, BRC-20, and Bitcoin. Our comprehensive suite of utilities serves developers and everyday users, enhancing their experience with ordinals and blockchain technology.
+
+<img align="right" width="300px" src="https://i.ibb.co/16mDRtb/Ordtoolkit.png">
+
+- Site: <a href="https://ordtoolkit.app/">Ord Toolkit</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/ordiToolkit-be">Ord Toolkit-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/ordiToolkit-fe">Ord Toolkit-Frontend</a>
+
+<br />
+
+
+<h3><u><strong><i>DexOrdi</i></strong></u></h3>
+<hr />
+
+DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.
+
+<img align="right" width="300px" src="https://i.ibb.co/DLNcPyS/Dexordi.png">
+
+The developer behind DexOrdi aims for this repository to be a valuable resource for enthusiasts looking to contribute to the growth and enhancement of the Bitcoin ecosystem. Together, we can cultivate a more prosperous and valuable Bitcoin world for all stakeholders.
+
+
+
+- Site: <a href="https://dexordi-fe.vercel.app">Dexordi</a>
+- Github repos: 
+  - backend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/dexordi-be">Dexordi-Frontend</a>
+
+<br />
+
+
+<h3><u><strong><i>Asigna Bitcoin Multisig</i></strong></u></h3>
+<hr />
+
+
+The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin update, facilitating the use of Ordinals, BRC20, and enabling users to minimize gas fees as much as possible.
+
+<img align="right" width="300px" src="https://i.ibb.co/0D21Pjx/Asigna.png">
+
+- Live: <a href="https://btc.asigna.io/">Asigna Bitcoin Multisig</a>
+- Github repos: 
+  - smart contract repo: <a href="https://github.com/milojeBtc/AsignaContract">Asigna Smart Contract</a>
+  - backend repo: <a href="https://github.com/milojeBtc/AsignaBackend">Asigna Backend</a>
+  - frontend repo: <a href="https://github.com/milojeBtc/AsignaFrontend">Asigna Front End</a>
